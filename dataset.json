@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Regional restaurant data for the Corpus Christi (Metro), Texas metropolitan area, spanning Corpus Christi. Captures the competitive landscape across city boundaries within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Corpus Christi (Metro), Texas, US",
+  "export_job_id": "d98c05f8-7b34-4cf0-ac04-0aac1efd69ae",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 719533,
+  "location_name": "Corpus Christi, TX",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-corpus-christi-metro-texas-us-sample-719533",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/719533/beamstation_719533_restaurants-us-corpuschristitx_SAMPLE_DIST.csv",
+  "sample_pct": 9.98,
+  "sample_records": 126,
+  "sample_sha256": "a4fde9ebf1b5819a8248077b746cfd66a2cdc335c7c5087cb6cb849cd989b9ec",
+  "sample_size_bytes": 487907,
+  "total_records": 1263,
+  "updated_at": "2026-04-14T19:20:23.803587+00:00"
+}
