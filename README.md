@@ -1,6 +1,6 @@
 # All Restaurants in Corpus Christi (Metro), Texas, US
 
-> Free BeamStation sample export with 73 rows and masked direct-contact fields.
+> Free BeamStation sample export with 127 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `719533` |
 | Location | Corpus Christi, TX |
 | Category | Restaurants |
-| Full dataset size | 736 records |
-| Free sample size | 73 records (9.92%) |
-| Last export | 2026-04-21T21:18:24.453970+00:00 |
+| Full dataset size | 1,272 records |
+| Free sample size | 127 records (9.98%) |
+| Last export | 2026-04-28T23:24:49.703193+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-corpus-christi-metro-texas-us-sample-719533/releases/download/sample-latest/beamstation_719533_restaurants-us-corpuschristitx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
