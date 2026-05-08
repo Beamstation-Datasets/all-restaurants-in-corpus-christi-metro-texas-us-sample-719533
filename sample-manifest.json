@@ -1,12 +1,12 @@
 {
-  "export_job_id": "be1aeeb4-73b5-4bfa-971e-ee216265c2bb",
+  "export_job_id": "9f95f6a8-636e-49da-b9b6-e9314af13e88",
   "id_short": 719533,
-  "published_at": "2026-04-29T07:16:23Z",
+  "published_at": "2026-05-08T07:09:02Z",
   "repo_name": "all-restaurants-in-corpus-christi-metro-texas-us-sample-719533",
   "sample_asset_name": "beamstation_719533_restaurants-us-corpuschristitx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/719533/beamstation_719533_restaurants-us-corpuschristitx_SAMPLE_DIST.csv",
-  "sample_records": 127,
-  "sample_sha256": "e111c42ad1072e0a732b8f3765e390112f0fdd717f7e79aaf1ba15ebd0c0a18a",
-  "sample_size_bytes": 400866,
-  "total_records": 1272
+  "sample_records": 134,
+  "sample_sha256": "975c395af762bbef1e57b6c852166b04a5457d0501e20b63f32a5d0d520fcf36",
+  "sample_size_bytes": 505633,
+  "total_records": 1342
 }
